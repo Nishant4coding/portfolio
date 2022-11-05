@@ -381,7 +381,7 @@ background: #fff;
 @media (max-width: 600px) {
 .contactForm  {
     width: auto;
-    margin-right: 30px;
+    margin-right: -10px;
     
 }
 .contactInfo{
@@ -414,13 +414,13 @@ background: #fff;
     margin-left: -20px;
 }
 .about{
-    margin-top: -800px;
+    margin-top: -550px;
 }
 .profile-box{
     margin-top: -250px;
 }
 .contact{
-    margin-top: -470px;
+    margin-top: -200px;
     border-radius: 20px;
 }
 }
